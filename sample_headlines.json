@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Local startups launch a shared clean-energy fund",
+    "category": "business",
+    "source": "Sample News Desk",
+    "published_at": "2026-11-20T09:15:00Z",
+    "url": "https://example.com/news/clean-energy-fund",
+    "description": "A group of young companies will pool investment for renewable projects."
+  },
+  {
+    "title": "New science center opens its doors to students",
+    "category": "science",
+    "source": "Sample News Desk",
+    "published_at": "2026-11-20T11:30:00Z",
+    "url": "https://example.com/news/science-center",
+    "description": "The center offers hands-on exhibits about space, biology, and engineering."
+  },
+  {
+    "title": "City team wins regional final after late comeback",
+    "category": "sports",
+    "source": "Sample Sports",
+    "published_at": "2026-11-21T16:00:00Z",
+    "url": "https://example.com/news/regional-final",
+    "description": "A last-minute goal secured the team's place in the championship."
+  },
+  {
+    "title": "Hospitals test a faster appointment booking service",
+    "category": "health",
+    "source": "Sample Health Report",
+    "published_at": "2026-11-22T08:45:00Z",
+    "url": "https://example.com/news/appointment-service",
+    "description": "The pilot program aims to shorten waits for routine appointments."
+  },
+  {
+    "title": "Researchers build a low-cost air quality sensor",
+    "category": "technology",
+    "source": "Sample Tech Brief",
+    "published_at": "2026-11-22T12:10:00Z",
+    "url": "https://example.com/news/air-quality-sensor",
+    "description": "The portable device is designed for classrooms and community groups."
+  },
+  {
+    "title": "Film festival adds a student-made short film program",
+    "category": "entertainment",
+    "source": "Sample Culture",
+    "published_at": "2026-11-23T07:20:00Z",
+    "url": "https://example.com/news/student-film-program",
+    "description": "The new section will screen short films from emerging filmmakers."
+  },
+  {
+    "title": "Community library extends weekend opening hours",
+    "category": "general",
+    "source": "Sample City News",
+    "published_at": "2026-11-23T10:00:00Z",
+    "url": "https://example.com/news/library-hours",
+    "description": "The schedule change follows requests from local families and students."
+  }
+]
